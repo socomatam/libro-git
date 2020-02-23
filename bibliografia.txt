@@ -1,2 +1,3 @@
 Chacon, S. and Straud, B. Pro Git Apress.
 Loegier,J. and McCullogh, M.Version control with Git. O'Relly.
+Ryan Hodson, Ry's Git Tutorial. Smashwords (2004)
